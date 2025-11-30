@@ -1,0 +1,7 @@
+Exercise 1 (Node Voltage):
+Node voltages: [Va, Vb, Vc, Vd, Ve] = [4.13 3.44 3.00 2.97 2.95]
+
+Exercise 2 (Heat Diffusion):
+Time taken for Cholesky decomposition and solving: 0.00019280000014987309
+Time taken for LU decomposition and solving: 0.00031129999979384593
+Maximum difference between solutions: 2.1316282072803006e-14
